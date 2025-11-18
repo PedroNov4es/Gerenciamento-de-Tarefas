@@ -1,19 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""
-Gerenciador de Tarefas
-Implementa funcionalidades solicitadas no enunciado: criar, pegar próxima tarefa
-(verificação de urgência), atualizar prioridade, concluir tarefas (com data de conclusão),
-arquivar automaticamente tarefas concluídas há mais de uma semana, exclusão lógica,
-relatórios, persistência em JSON e criação automática dos arquivos necessários.
-
-Requisitos: Python 3.8+
-Arquivos usados (mesma pasta do script):
-- tarefas.json
-- tarefas_arquivadas.json
-"""
-
 import json
 import os
 from datetime import datetime, timedelta
