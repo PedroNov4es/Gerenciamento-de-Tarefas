@@ -1,0 +1,12 @@
+[
+    {
+        "id": 2,
+        "titulo": "Estudar",
+        "descricao": "Estudar Python e criar Gerenciador de Tarefas",
+        "prioridade": "Urgente",
+        "status": "Concluída",
+        "origem": "Telefone",
+        "creation_date": "2025-11-18T18:51:52.114047",
+        "completion_date": "2025-11-18T18:53:30.848612"
+    }
+]
